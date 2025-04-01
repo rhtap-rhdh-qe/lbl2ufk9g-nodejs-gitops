@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lbl2ufk9g-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lbl2ufk9g-nodejs
